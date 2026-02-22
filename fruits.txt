@@ -2,3 +2,5 @@ apple
 mango
 cherry
 kiwi
+pineapple
+cherry
